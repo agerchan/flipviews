@@ -15,6 +15,7 @@
 		95630E2124A4455100115868 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95630E1F24A4455100115868 /* LaunchScreen.storyboard */; };
 		95630E2C24A4455100115868 /* flipviewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95630E2B24A4455100115868 /* flipviewsTests.swift */; };
 		95630E3724A4455100115868 /* flipviewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95630E3624A4455100115868 /* flipviewsUITests.swift */; };
+		95630E4524A4458800115868 /* page2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95630E4424A4458800115868 /* page2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		95630E3224A4455100115868 /* flipviewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flipviewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		95630E3624A4455100115868 /* flipviewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flipviewsUITests.swift; sourceTree = "<group>"; };
 		95630E3824A4455100115868 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95630E4424A4458800115868 /* page2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = page2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				95630E1424A4454D00115868 /* AppDelegate.swift */,
 				95630E1624A4454D00115868 /* SceneDelegate.swift */,
 				95630E1824A4454D00115868 /* ViewController.swift */,
+				95630E4424A4458800115868 /* page2.swift */,
 				95630E1A24A4454D00115868 /* Main.storyboard */,
 				95630E1D24A4455100115868 /* Assets.xcassets */,
 				95630E1F24A4455100115868 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95630E1924A4454D00115868 /* ViewController.swift in Sources */,
+				95630E4524A4458800115868 /* page2.swift in Sources */,
 				95630E1524A4454D00115868 /* AppDelegate.swift in Sources */,
 				95630E1724A4454D00115868 /* SceneDelegate.swift in Sources */,
 			);
